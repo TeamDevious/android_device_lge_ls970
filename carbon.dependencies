@@ -11,7 +11,7 @@
         "account": "TeamDevious",
         "repository": "android_device_lge_ls970",
         "target_path": "device/lge/ls970",
-        "revision": "cm-10.2"
+        "revision": "carbon"
     },
     {
         "remote": "github",
