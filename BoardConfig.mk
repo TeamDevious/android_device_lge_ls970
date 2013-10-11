@@ -21,7 +21,7 @@ BOARD_MKBOOTIMG_ARGS := --ramdisk_offset 0x02000000
 
 # Try to build the kernel
 TARGET_KERNEL_SOURCE := kernel/lge/gproj
-TARGET_KERNEL_CONFIG := cyanogenmod_e975inline_defconfig
+TARGET_KERNEL_CONFIG := cyanogenmod_e975_defconfig
 
 # Recovery
 TARGET_RECOVERY_FSTAB := device/lge/ls970/ramdisk/fstab.ls970
