@@ -16,7 +16,7 @@
     {
         "remote": "github",
         "account": "neighborhoodhacker",
-        "repository": "lge-kernel-gproj-1",
+        "repository": "lge-kernel-gproj",
         "target_path": "kernel/lge/gproj",
         "revision": "msm-3.4"
     },
